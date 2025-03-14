@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const products = [
-        { name: "Protetor Fecha Veda Fresta", image: "protetor.jpg", link: "#" },
-        { name: "Cortador de Legumes", image: "cortador.jpg", link: "#" },
+        { name: "luminaria", image: "luminaria.jpg", link: "https://amzn.to/4ipfEB0" },
+        { name: "fechadura", image: "fechadura.jpg", link: "https://amzn.to/4hFmaCu" },
         { name: "Câmera", image: "camera.jpg", link: "https://amzn.to/41ICoEQ" }
     ];
 
