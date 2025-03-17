@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { name: "cortina", image: "janela.jpg", link: "https://amzn.to/4iQCIsb" },
         { name: "chaveiro", image: "chaveiro.jpg", link: "https://amzn.to/4iblIx4" },
         { name: "ehance", image: "enhance.jpg", link: "https://amzn.to/4iwQjVz" },
-        { name: "Camera vigilancia", image: "cameravigilancia.jpg", link: " https://amzn.to/4iAoImC" },
+        { name: "Camera vigilancia", image: "cameravigilancia.jpg", link: "https://amzn.to/4iAoImC" },
 
        
     ];
